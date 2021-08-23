@@ -1,1 +1,1 @@
-# basic-android-training
+# Basic Android Programming with Kotlin.
